@@ -4,6 +4,7 @@
 - [SD-WAN 基础介绍](https://osdwan.github.io/sdwan/introduction.html)：SD-WAN 是什么、企业为什么需要 SD-WAN、核心优势及适用行业。
 - [国际网络服务商选型对比](https://osdwan.github.io/sdwan/国际网络服务商选型对比.html)：基础电信运营商、云服务商与专业 SD-WAN 服务商三类方案的产品类型、服务能力、适用场景与选型标准对比。
 - [Claude 相关内容](https://osdwan.github.io/sdwan/Claude.html)：Claude Code 是否有免费版、国内使用 Claude Code 的最新指南。
+- [跨境网络专线多少钱一年？影响价格的5个主要因素](https://osdwan.github.io/sdwan/跨境网络专线一年多少钱.html)：跨境网络专线年度费用参考（含电信/移动/联通/云厂商报价对比）、带宽档位预算表、影响价格的5个因素及企业采购避坑指南。
 ## 站点信息
 - 首页：https://osdwan.github.io/
 - 内容语言：简体中文
